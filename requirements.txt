@@ -2,3 +2,7 @@ scikit-learn
 pandas
 pyttsx3
 streamlit
+langchain
+langchain-community
+openai
+faiss-cpu
